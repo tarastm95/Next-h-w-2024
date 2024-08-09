@@ -3,8 +3,9 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-   <div>
-     Test App
-   </div>
+      <main className={styles.main}>
+        hello
+
+      </main>
   );
 }
